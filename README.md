@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Expense Tracker Web App
 
 This Expense Tracker Web App is a simple tool built with HTML, CSS, and JavaScript to help users manage their finances effectively. Keep track of your income and expenses, add new transactions, and visualize your financial health.
@@ -27,3 +28,6 @@ This Expense Tracker Web App is a simple tool built with HTML, CSS, and JavaScri
 Simply open the `index.html` file in a web browser to start using the Expense Tracker.
 
 Feel free to enhance and customize the code to suit your preferences or integrate additional features!
+=======
+# Expense-Tracker
+>>>>>>> bfc94b5a9f9bf70d4f6021e16224d02eef0491a2
