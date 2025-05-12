@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="expensetrackers.css">
   </head>
   <body>
-    <h2>Expense Tracker</h2>
+    <h2>Deepanshu's Expense Tracker</h2>
     <div class="container">
       <h4>Your Balance</h4>
       <h1 id="balance">&#8377;0.00</h1>
@@ -32,7 +32,7 @@
           ><button class="delete-btn">x</button>
         </li>
       </ul>
-      <h3>Add New Transition</h3>
+      <h3>Add New Transaction</h3>
       <form id="form">
           <div class="form-control">
               <label for="text">Text</label>
@@ -42,6 +42,14 @@
               <label for="amount">Amount <br> (negative - expense ,positive - income )</label>
               <input type="number" id="amount" placeholder="Enter amount"> 
           </div>
+          <div class="form-control">
+            <label for="category">Category</label>
+            <input type="text" id="category" placeholder="Enter category (e.g., Food, Transport)">
+          </div>
+          <div class="form-control">
+            <label for="date">Date</label>
+            <input type="date" id="date">
+          </div>          
           <button class="btn">Submit</button>
       </form>
     </div>
